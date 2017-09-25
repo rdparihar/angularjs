@@ -1,0 +1,48 @@
+   61  echo "# angularjs" >> README.md
+   62  git init
+   63  git add README.md
+   64  git commit -m "first commit"
+   65  git remote add origin https://github.com/rdparihar/angularjs.git
+   66  git push -u origin master
+   67  mkdir 20170927
+   68   git status -s
+   69  cd 20170927/
+   70  ls
+   71  cd ..
+   72   git status -s
+   73   git status -s
+   74   git status -s
+   75   git status -s
+   76  git -m 'created lib for angular'
+   77  git commit -m 'created lib for angular'
+   78   push -u origin master
+   79  git push -u origin master
+   80  git push -u origin master
+   81   git status -s
+   82  git log
+   83  pwd
+   84  cd /home
+   85  cd home/
+   86  cd Home/
+   87  cd /Home
+   88   git status -s
+   89  git add .
+   90   git status -s
+   91  git commit -m 'created lib for angular'
+   92  git push origin master
+   93  git commit -m 'created lib for angular'
+   94   git status -s
+   95   git status -s
+   96  git add .
+   97   git status -s
+   98  git push origin master
+   99*
+  100  git push origin master
+  101   git status -s
+  102  git add .
+  103   git status -s
+  104  git push origin master
+  105  git commit -m 'created 0170927/angularjs_1.html'
+  106  git commit -m 'created 0170927/angularjs_2.html'
+  107  git push origin master
+  108  history
